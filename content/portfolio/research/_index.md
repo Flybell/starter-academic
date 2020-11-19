@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Protfolio
+linktitle: Portfolio
 summary: 
 weight: 1
 
