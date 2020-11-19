@@ -16,6 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am Lynn Chiu.
 
+# Interests to show in About widget
 interests:
 - Niche construction
 - Holobiont individuality
@@ -58,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "chiulynnc@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
