@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Lynn Chiu is working with Kevin Laland on communicating research in the Extended Evolutionary Synthesis research program. Her own work concerns the theoretical implications of niche construction, the biological individuality of the holobiont (the host organism and its microbiome), and science communication strategies that build community. She has a PhD in Philosophy from University of Missouri and completed her postdoc under the IDEM ERC project at University of Bordeaux/CNRS.
+Lynn Chiu is a philosopher of biology in practice. Her own work concerns the theoretical implications of niche construction, the biological individuality of the holobiont (the host organism and its microbiome), and science communication strategies that build community. She has a PhD in Philosophy from University of Missouri and completed her postdoc under the IDEM ERC project at University of Bordeaux/CNRS. She is a consultant for the Konrad Lorenz Institute and the EES research program.
