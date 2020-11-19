@@ -16,10 +16,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am Lynn Chiu.
 
-topics:
+interests:
 - Niche construction
 - Holobiont individuality
 - Gut-brain-microbe axis
+- Institutional and science communication
 
 education:
   courses:
