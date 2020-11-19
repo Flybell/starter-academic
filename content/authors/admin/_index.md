@@ -23,6 +23,7 @@ interests:
 - Gut-brain-microbe axis
 - Institutional and science communication
 
+# education to show in About widget
 education:
   courses:
   - course: PhD/MA in Philosophy
