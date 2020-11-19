@@ -20,7 +20,7 @@ bio: I am Lynn Chiu.
 interests:
 - Niche construction
 - Holobiont individuality
-- Gut-brain-microbe axis
+- Proto-cognition and the gut-brain-microbe axis
 - Institutional and science communication
 
 # education to show in About widget
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Lynn Chiu is a philosopher of biology in practice. Her own work concerns the theoretical implications of niche construction, the biological individuality of the holobiont (the host organism and its microbiome), and science communication strategies that build community. She has a PhD in Philosophy from University of Missouri and completed her postdoc under the IDEM ERC project at University of Bordeaux/CNRS. She is a consultant for the Konrad Lorenz Institute and the EES research program.
+Lynn Chiu is a philosopher of biology and a science communicator. Her research is built on collaborations with scientists (developmental biologists, immunologists, psychologists) to push theoretical frontiers. As a communications consultant for the Konrad Lorenz Institute and the EES research program, she uses her unique background in the life sciences, cognitive science, and philosophy to cultivate interdisciplinary communities. 
