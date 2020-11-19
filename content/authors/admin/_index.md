@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Lynn Chiu is a philosopher of biology and a science communicator. Her research is built on collaborations with scientists (developmental biologists, immunologists, psychologists) to push theoretical frontiers. As a communications consultant for the Konrad Lorenz Institute and the EES research program, she uses her unique background in the life sciences, cognitive science, and philosophy to cultivate interdisciplinary communities. 
+Lynn Chiu is a philosopher of biology and a science communicator. She works closely with scientists in labs (developmental biologists, immunologists, psychologists) to push conceptual frontiers. As a communications consultant for the Konrad Lorenz Institute and the EES research program, she uses her unique background in the life sciences, cognitive science, and philosophy to cultivate interdisciplinary communities. 
