@@ -16,12 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  overview:
+  research:
     name: Overview
     weight: 1
-  paper1:
-    name: Birth of the Holobiont
-    weight: 2
 ---
 
 ## Flexibility
