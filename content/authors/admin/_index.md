@@ -14,9 +14,9 @@ organizations:
   url: "https://lalandlab.st-andrews.ac.uk/current-lab-members/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Lynn Chiu
+bio: I am Lynn Chiu.
 
-Research topics:
+topics:
 - Niche construction
 - Holobiont individuality
 - Gut-brain-microbe axis
