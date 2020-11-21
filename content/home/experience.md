@@ -3,10 +3,10 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "The Path"
-subtitle = "my academic trajectory in a nutshell"
+subtitle = "my trajectory in a nutshell"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
