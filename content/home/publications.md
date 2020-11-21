@@ -67,7 +67,4 @@ subtitle = "Journal and popular articles"
  css_class = ""
 +++
 
-# {{% callout note %}}
-# Quickly discover relevant content by [filtering publications](./
-# publication/).
-# {{% /callout %}}
+
