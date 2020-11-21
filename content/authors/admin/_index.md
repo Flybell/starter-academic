@@ -18,10 +18,9 @@ bio: I am Lynn Chiu.
 
 # Interests to show in About widget
 interests:
-- Niche construction
-- Holobiont individuality
-- Proto-cognition and the gut-brain-microbe axis
-- Institutional and science communication
+- Visiting Scholar (University of St. Andrews)
+- Communications Strategist (KLI)
+- Media/Communications Officer (EES)
 
 # education to show in About widget
 education:
