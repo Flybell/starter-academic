@@ -19,21 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Communications Strategist and Manager"
-  company = "KLI"
+  company = "Konrad Lorenz Institute"
   company_url = "https://kli.ac.at/"
   location = "Austria"
   date_start = "2019-09-15"
   date_end = ""
   description = """
-  Responsibilities include:
+  Develop a comprehensive suite of communications strategies to help rebrand the KLI and expand its reach into the sustainability sciences. Responsibilities include:
   
-  * Create institute contact database
-  * Communnity building via social media networking (Twitter)
-  * 
+  * Establish an interdisciplinary contact database 
+  * Create social media calendar and workflow
+  * Create institutional newsletter
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Media and Communications Officer"
   company = "University X"
   company_url = ""
   location = "California"
