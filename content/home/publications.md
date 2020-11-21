@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = "Journal and popular articles"
 
 [content]
@@ -25,7 +25,7 @@ subtitle = "Journal and popular articles"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "test"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
@@ -37,7 +37,7 @@ subtitle = "Journal and popular articles"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,6 +67,7 @@ subtitle = "Journal and popular articles"
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+#{{% callout note %}}
+#Quickly discover relevant content by [filtering publications](./
+#publication/).
+#{{% /callout %}}
