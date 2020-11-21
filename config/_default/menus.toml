@@ -13,21 +13,21 @@
   url = "#projects"
   weight = 20
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
-
 [[main]]
   name = "Publications"
-  url = "portfolio/research"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "Blog"
   url = "#posts"
-#  url = "/post"
   weight = 40
+
+[[main]]
+name = "Sandbox"
+url = "/portfolio"
+weight = 50
+
 
 [[main]]
   name = "Contact"
