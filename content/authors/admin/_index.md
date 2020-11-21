@@ -14,13 +14,13 @@ organizations:
   url: "https://lalandlab.st-andrews.ac.uk/current-lab-members/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Lynn Chiu.
+bio: Lynn Chiu is a philosopher of biology and science communicator.
 
 # Interests to show in About widget
 interests:
-- Visiting Scholar (University of St. Andrews)
-- Communications Strategist (KLI)
-- Media/Communications Officer (EES)
+- Visiting Scholar 
+- Communications Strategist
+- Media/Communications Officer
 
 # education to show in About widget
 education:
