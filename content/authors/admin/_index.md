@@ -19,8 +19,8 @@ bio: Lynn Chiu is a philosopher of biology and science communicator.
 # Interests to show in About widget
 interests:
 - Visiting Scholar 
-- Communications Strategist
-- Media/Communications Officer
+- Institutional Science Communicator
+- Media and Communications Officer
 
 # education to show in About widget
 education:
