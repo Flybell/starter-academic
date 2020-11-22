@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Reading notes - Gut Mind Project  
 summary: Shared reading notes 
-weight: 2
+weight: 10
 
 # Page metadata.
 title: Overview
