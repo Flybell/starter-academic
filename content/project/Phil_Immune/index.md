@@ -3,6 +3,7 @@ title: Philosophy of Immunology
 summary: My work on this
 tags:
 - Philosophy of Immunology
+- Philosophy
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

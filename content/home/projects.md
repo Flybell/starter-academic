@@ -30,6 +30,10 @@ subtitle = ""
      tag = "Desktop Publishing"
 
    [[content.filter_button]]
+     name = "Philosophy"
+     tag = "Philosophy"
+
+   [[content.filter_button]]
      name = "Other"
      tag = "0"
 
