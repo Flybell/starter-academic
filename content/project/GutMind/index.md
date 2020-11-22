@@ -1,27 +1,26 @@
 ---
-title: Philosophy of Immunology
-summary: My work on this
+title: EES Final Report (2020)
+summary: A graphic final report for the EES grant (2016-2019)
 tags:
-- Philosophy of Immunology
-- Philosophy
+- Desktop Publishing
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: 
-  focal_point: 
+  caption: Pages 8-9 of the report
+  focal_point: Smart
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/drlynnchiu
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/drlynnchiu
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,4 +30,4 @@ image:
 slides: example
 ---
 
-All about the Immune System.
+In 2020, I conceptualized a final report for an interdisciplinary grant 

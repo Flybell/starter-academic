@@ -26,11 +26,11 @@ subtitle = ""
      tag = "*"
 
    [[content.filter_button]]
-     name = "Desktop Publishing"
-     tag = "Desktop Publishing"
+     name = "Science Communication"
+     tag = "SciComm"
 
    [[content.filter_button]]
-     name = "Philosophy"
+     name = "Philosophy of Science"
      tag = "Philosophy"
 
    [[content.filter_button]]

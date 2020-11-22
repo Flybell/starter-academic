@@ -11,6 +11,8 @@ tags:
 - Popular Philosophy of Biology
 - Philosophy of Biology
 - Philosophy of Immunology 
+- Philosophy of Science
+- Philosophy 
 categories:
 - Chinese
 - Popular Science
