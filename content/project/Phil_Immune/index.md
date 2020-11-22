@@ -1,16 +1,16 @@
 ---
-title: EES Final Report (2020)
-summary: A graphic final report for the EES grant (2016-2019)
+title: Philosophy of Immunology
+summary: My work on this
 tags:
-- Desktop Publishing
+- Philosophy of Immunology
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Pages 8-9 of the report
-  focal_point: Smart
+  caption: 
+  focal_point: 
 
 links:
 - icon: twitter
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-In 2020, I conceptualized a final report for an interdisciplinary grant 
+All about the Immune System.
