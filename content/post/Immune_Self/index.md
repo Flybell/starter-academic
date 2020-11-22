@@ -1,18 +1,22 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Who is the Immune Self? (Mandarin Chinese)'
+subtitle: 'In the Taiwanese popular science magazine Science Monthly'
+summary: 
 authors:
 - admin
 - 吳恩達
 tags:
-- Academic
-- 开源
+- 中文
+- Chinese
+- Popular Science
+- Popular Philosophy of Biology
+- Philosophy of Biology
+- Philosophy of Immunology 
 categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+- Chinese
+- Popular Science
+date: "2020-11-22T00:00:00Z"
+lastmod: "2020-11-22T00:00:00Z"
 featured: false
 draft: false
 
@@ -23,7 +27,7 @@ draft: false
 image:
   placement: 2
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -31,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Phil_Immune]
 ---
 
 > Take home message: 談論到免疫系統時，我們總是習慣區分出「敵」與「我」的概 念，但免疫系統又是如何決定誰是自我？誰是外敵？「自身和 非自身理論」是免疫學中古典與主流的理論，認為是否排斥的 原則取決於自我分子與非自我分子的差異；後續的危險訊號模 型、非連續性理論與平衡模型等不同理論，對「免疫自我」是 誰、體內微生物究竟是敵是我，開啟了不一樣的哲學挑戰。
