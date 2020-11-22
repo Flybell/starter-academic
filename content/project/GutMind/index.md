@@ -1,8 +1,8 @@
 ---
-title: EES Final Report (2020)
-summary: A graphic final report for the EES grant (2016-2019)
+title: GutMind
+summary: 
 tags:
-- Desktop Publishing
+- Philosophy
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
