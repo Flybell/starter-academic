@@ -4,7 +4,6 @@ subtitle: 'In the Taiwanese popular science magazine Science Monthly'
 summary: 
 authors:
 - admin
-- 吳恩達
 tags:
 - 中文
 - Chinese
