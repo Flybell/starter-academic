@@ -1,5 +1,4 @@
-\---
-
+---
 title: Chapter 1
 
 date: 2020-11-22
@@ -7,10 +6,11 @@ date: 2020-11-22
 type: book
 
 \# Position of this page in the menu. Remove this option to sort alphabetically.
-
 \# weight: 1
+---
 
-\---
+
+
 
 ### What it was about
 
