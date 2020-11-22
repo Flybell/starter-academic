@@ -16,8 +16,8 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/drlynnchiu
+  name: EES_Update
+  url: https://twitter.com/ees_update
 url_code: ""
 url_pdf: ""
 url_slides: ""
