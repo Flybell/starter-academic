@@ -19,13 +19,13 @@ type: book
 - monism of the mind: biological materialism 
 - the arbitrariness of ontological positions of the mind (see panpsychism or materialism) comes from the explanatory gap: it is not satisfactory to explain "what it is like-ness" with matter
 
-#### The question/problem
+#### The question/problem he will tackle
 
 * To solve the explanatory gap by showing how the evolution of living systems can give rise to minds 
 * The evolution of subjectivity: what it is and how it came to be
 * Transitions in the evolution of the mind. 
 
-#### About method (p. 21)
+#### What stood out for me?
 
 Beautiful quote from Grothendieck (mathematician):
 
@@ -36,3 +36,7 @@ Beautiful quote from Grothendieck (mathematician):
 ... We build around the problem and see it transform and subside. 
 
 Two points. (1) the once explanatory "gap" will no longer be a gap when we transform the problem; (2) this reminds me of the story of Roberta Millstein's life. She told me that she worked around her problem for most of her career instead of directly tackling it. 
+
+#### Action plans and next steps 
+
+Need to read the next chapter to find the arguments I want. Seems promising, though, that it's going to be about sponges. 
