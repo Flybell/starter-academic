@@ -1,5 +1,5 @@
 ---
-# Page title
+# Chapter title
 title: Chapter 1
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
