@@ -14,11 +14,10 @@ type: book
 
 ### What it was about
 
-#### PGS's positions on the mind 
+#### PGS's positions on life and mind 
 
-- monism 
-- biological materialism 
-- the arbitrariness of ontological positions of the mind comes from the explanatory gap: it is not satisfactory to explain "what it is like-ness" with matter
+- monism of the mind: biological materialism 
+- the arbitrariness of ontological positions of the mind (see panpsychism or materialism) comes from the explanatory gap: it is not satisfactory to explain "what it is like-ness" with matter
 
 #### The question/problem
 
