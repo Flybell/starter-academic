@@ -30,8 +30,8 @@ subtitle = ""
      tag = "SciComm"
 
    [[content.filter_button]]
-     name = "Philosophy of Science"
-     tag = "Philosophy"
+     name = "Philosophy"
+     tag = "Phil"
 
    [[content.filter_button]]
      name = "Other"

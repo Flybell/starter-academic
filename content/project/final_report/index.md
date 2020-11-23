@@ -7,7 +7,7 @@ tags:
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 image:
   caption: Pages 8-9 of the report
