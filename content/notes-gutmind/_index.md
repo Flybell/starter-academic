@@ -25,3 +25,13 @@ header:
   image: ""
 ---
 
+Collaborators 
+
+Suling Yeh: meta-awareness, meta-perception and gut feelings 
+
+Jan-Pieter Konsman: Bordeaux project Gut-Brain Two Minds?
+
+Jan-Pieter Konsman, Gregor Greslehner, and potentially others: neuroendocrine and immune system interactions 
+* evo-devo considerations
+* divison of labor between the neuroendocrine and immune system 
+* how microbiota affect immune-neuroendocrine interactions
