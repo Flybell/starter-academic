@@ -25,9 +25,9 @@ subtitle = "Writings for a non-academic audience"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Public"
     category = ""
-    publication_type = "pub_public"
+    publication_type = ""
     author = ""
     exclude_featured = false
   
