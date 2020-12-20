@@ -61,7 +61,7 @@ slides: ""
 **Backstory**
 The late Werner Callebaut took this picture in 2014 at the EuroEvoDevo conference in Vienna. Sending this photo to Scott and I catalyzed our first cooperation.
 <br>
-{{< figure src="Gilbert.png" title="Scott Gilbert and Lynn Chiu sitting under a tree" >}}
+{{< figure src="Gilbert.png" title="Scott Gilbert and Lynn Chiu sitting under a tree" library="true" >}}
 ![ALT: Scott Gilbert and Lynn Chiu sitting under a tree](https://lynnchiu.netlify.app/static/image/Gilbert.png)
 
 
