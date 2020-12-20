@@ -10,6 +10,7 @@ featured: true
 publication: "Frontiers in Immunology"
 url_pdf: "https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf"
 doi: "10.3389/fimmu.2017.01678"
+project: [2017_protective_figures]
 ---
 ![Fig1](fig1.jpg)
 <br>
@@ -17,12 +18,5 @@ doi: "10.3389/fimmu.2017.01678"
 **Links**
 - [Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.01678)
 - [PDF](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf)
-
-**Images I drew for the paper**
-![fig2](fig2.jpg)
-<br>
-![fig3](fig3.jpg)
-<br>
-![fig4](fig4.jpg)
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="30109113"></div>
