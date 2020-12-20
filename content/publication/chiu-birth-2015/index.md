@@ -24,7 +24,7 @@ We are evolutionarily, physiologically, and developmentally integrated holobiont
 **Awards**
 - [Biosemiotics Paper of the Year 2015](https://link.springer.com/article/10.1007/s12304-016-9261-8)
 - [ISHPSSB Werner Callebaut Prize for interdisciplinarlity](https://www.ishpssb.org/component/content/article/20-prizes/callebaut-prize/168-2017-callebaut-prize-citation-for-lynn-chiu)
-<br>
+<br><br>
 ![alt text](static\image\Gilbert.png)
 
 
