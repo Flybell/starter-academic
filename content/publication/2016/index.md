@@ -15,8 +15,9 @@ doi: "10.1007/s10539-016-9552-0"
 - [Paper](https://doi.org/10.1007/s10539-016-9552-0)
 - [PDF](https://link.springer.com/content/pdf/10.1007/s10539-016-9552-0.pdf)
 <br><br>
+
 **Figures**
-{{< github-Chrede88-figArray library="true" numCols=4 srcArray="2016_fig1.jpg,2016_fig2.jpg" >}}
+{{< github-Chrede88-figArray library="true" numCols=2 srcArray="2016_fig1.jpg,2016_fig2.jpg" >}}
 
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="13756721"></div>

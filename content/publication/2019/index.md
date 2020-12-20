@@ -38,4 +38,4 @@ slides: ""
 <br><br>
 
 **Figures**
-{{< github-Chrede88-figArray library="true" numCols=4 srcArray="2019_fig1.jpg" >}}
+{{< github-Chrede88-figArray library="true" numCols=1 srcArray="2019_fig3.jpg,2019_fig2.jpg,2019_fig1.jpg" >}}
