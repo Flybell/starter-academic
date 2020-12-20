@@ -11,7 +11,7 @@ abstract: "Holobionts are multicellular eukaryotes with multiple species of pers
 summary: "First paper with Gilbert"
 featured: true
 publication: "Biosemiotics"
-tags: ["Birth", "Developmental scaffolding", "Evolutionary Developmental Biology", "Holobionts", "Niche construction"]
+tags: ["Journal", "Birth", "Developmental scaffolding", "Evolutionary Developmental Biology", "Holobionts", "Niche construction"]
 # links:
 # - name: ""
 #   url: ""
@@ -24,7 +24,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 doi: "10.1007/s12304-015-9232-5"
-tag: "holobiont"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:

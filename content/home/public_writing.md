@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 45  # Order that this section will appear.
 
-title = "Publications"
-subtitle = "Journal and popular articles"
+title = "Public writing"
+subtitle = "Articles for the general public"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -25,9 +25,9 @@ subtitle = "Journal and popular articles"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Public"
     category = ""
-    publication_type = "publication"
+    publication_type = ""
     author = ""
     exclude_featured = false
   
@@ -37,7 +37,7 @@ subtitle = "Journal and popular articles"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
