@@ -31,10 +31,6 @@ url_video: ""
 slides: example
 ---
 
-<a data-fancybox=gallery-gallery1 href=fig2.jpg><img data-src=fig2.jpg class=lazyload alt width=124 height=190></a>
-
-![fig2](fig2.jpg)
-<br>
-![fig3](fig3.jpg)
-<br>
-![fig4](fig4.jpg)
+<a data-fancybox=gallery-gallery1 href=fig2.jpg><img data-src=fig2.jpg class=lazyload alt width=200></a>
+<a data-fancybox=gallery-gallery1 href=fig3.jpg><img data-src=fig3.jpg class=lazyload alt width=200></a>
+<a data-fancybox=gallery-gallery1 href=fig4.jpg><img data-src=fig4.jpg class=lazyload alt width=200></a>
