@@ -4,7 +4,7 @@ date: 2019-01-01
 publishDate: 2020-11-21T17:51:00.296947Z
 authors: ["Lynn Chiu"]
 publication_types: ["6"]
-summary: ""
+summary: "My main paper"
 abstract: ""
 featured: true
 publication: "*Evolutionary Causation: Biological and Philosophical Reflections*"
