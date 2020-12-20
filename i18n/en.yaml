@@ -183,6 +183,9 @@
 - id: pub_patent
   translation: Patent
 
+- id: pub_public
+  translation: Public writing
+
 # Project details
 
 - id: open_project_site

@@ -26,8 +26,8 @@ subtitle = "Journal and popular articles"
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
-    publication_type = "publication"
+    category = "Journal article"
+    publication_type = ""
     author = ""
     exclude_featured = false
   

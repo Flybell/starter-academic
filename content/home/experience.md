@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   * Manage and analyze social media networking (Twitter: [@KLIAustria](https://twitter.com/KLIAustria))
   * Create and write institutional newsletter
   * Edit and write summaries of publications for the institutional website 
+  <br><br>
   Read more about how I build community for the KLI.
   """
 
