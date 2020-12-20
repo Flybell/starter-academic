@@ -8,7 +8,7 @@ summary: ""
 abstract: ""
 featured: true
 publication: "Biology & Philosophy"
-# links:
+links:
  - name: "Paper"
    url: "https://doi.org/10.1007/s10539-016-9552-0"
 url_pdf: "https://link.springer.com/content/pdf/10.1007/s10539-016-9552-0.pdf"
