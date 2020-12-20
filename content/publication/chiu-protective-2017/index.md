@@ -19,8 +19,8 @@ Resident microbiota do not just shape host immunity, they can also contribute to
 <br><br>
 
 **Links**
--[Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.01678)
--[PDF](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf)
+- [Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.01678)
+- [PDF](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf)
 
 **Images**
 These are the images I drew for the paper. 
