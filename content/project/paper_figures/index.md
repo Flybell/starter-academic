@@ -33,4 +33,4 @@ Protective Microbes paper:
 <br>
 
 
-{{< figarray srcArray="images" numCols="2">}}
+{{< figarray srcArray="images" numCols="4">}}
