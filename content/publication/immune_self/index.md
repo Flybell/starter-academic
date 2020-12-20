@@ -4,6 +4,7 @@ summary: "談論到免疫系統時，我們總是習慣區分出「敵」與「�
 date: 2020-11-01
 publishDate: 2020-12-29T00:00:00Z
 publication: "Science Monthly/科學月刊"
+publication_types: ["pub_public"]
 tags: ["中文", "Chinese", "Popular Science", "Popular Philosophy of Biology", "Philosophy of Biology", "Immunology", "Philosophy of Science", "Holobiont"] 
 categories: ""
 featured: false
