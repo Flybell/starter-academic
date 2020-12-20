@@ -31,6 +31,6 @@ slides: example
 
 Protective Microbes paper: 
 <br>
-<a data-fancybox=gallery-gallery1 rel="group1" href=fig2.jpg><img data-src=fig2.jpg class=lazyload alt width=100></a>
-<a data-fancybox=gallery-gallery1 rel="group1" href=fig3.jpg><img data-src=fig3.jpg class=lazyload alt width=100></a>
-<a data-fancybox=gallery-gallery1 rel="group1" href=fig4.jpg><img data-src=fig4.jpg class=lazyload alt width=100></a>
+<a data-fancybox=gallery-gallery1 rel="group1" href=fig2.jpg><img data-src=fig2.jpg  alt width=100></a>
+<a data-fancybox=gallery-gallery1 rel="group1" href=fig3.jpg><img data-src=fig3.jpg  alt width=100></a>
+<a data-fancybox=gallery-gallery1 rel="group1" href=fig4.jpg><img data-src=fig4.jpg  alt width=100></a>
