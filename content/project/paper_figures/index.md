@@ -1,23 +1,21 @@
 ---
-title: EES Final Report (2020)
-summary: A graphic final report for the EES grant (2016-2019)
+title: Paper Figures
+summary: Figures I made for journal articles
 tags:
-- Desktop Publishing
-- SciComm
-date: "2020-11-01T00:00:00Z"
+date: "2020-12-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-image:
-  caption: Pages 8-9 of the report
-  focal_point: Smart
+# image:
+#   caption: Pages 8-9 of the report
+#   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: EES_Update
-  url: https://twitter.com/ees_update
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: EES_Update
+#   url: https://twitter.com/ees_update
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,6 +29,8 @@ url_video: ""
 slides: example
 ---
 
+Protective Microbes paper: 
+<br>
 <a data-fancybox=gallery-gallery1 href=fig2.jpg><img data-src=fig2.jpg class=lazyload alt width=200></a>
 <a data-fancybox=gallery-gallery1 href=fig3.jpg><img data-src=fig3.jpg class=lazyload alt width=200></a>
 <a data-fancybox=gallery-gallery1 href=fig4.jpg><img data-src=fig4.jpg class=lazyload alt width=200></a>
