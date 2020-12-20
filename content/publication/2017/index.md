@@ -18,6 +18,6 @@ projects: [paper_figures]
 <br><br>
 
 **Figures**
-{{< github-Chrede88-figArray numCols=4 srcArray="static/image/2017_figs/fig1.jpg,static/image/2017_figs/fig2.jpg,static/image/2017_figs/fig3.jpg,static/image/2017_figs/fig4.jpg" thumbCaption="Figure 1,Figure 2,Figure 3,Figure 4" >}}
+{{< github-Chrede88-figArray numCols=4 srcArray="static/media/2017_fig1.jpg,static/media/2017_fig2.jpg,static/media/2017_fig3.jpg,static/media/2017_fig4.jpg" thumbCaption="Figure 1,Figure 2,Figure 3,Figure 4" >}}
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="30109113"></div>
