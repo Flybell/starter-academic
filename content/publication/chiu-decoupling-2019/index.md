@@ -5,8 +5,11 @@ publishDate: 2020-11-21T17:51:00.296947Z
 authors: ["Lynn Chiu"]
 publication_types: ["6"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Evolutionary Causation: Biological and Philosophical Reflections*"
-url_pdf: "https://doi.org/10.7551/mitpress/11693.003.0015"
+url_pdf: ""
 ---
 
+**Links**
+- [Paper](https://doi.org/10.7551/mitpress/11693.003.0015)
+- [PDF]()
