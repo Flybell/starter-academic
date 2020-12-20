@@ -8,7 +8,7 @@ abstract: "Holobionts are multicellular eukaryotes with multiple species of pers
 featured: true
 publication: "Biosemiotics"
 tags: ["Birth", "Developmental scaffolding", "Evolutionary Developmental Biology", "Holobionts", "Niche construction"]
-url_pdf: "http://dx.doi.org/10.1007/s12304-015-9232-5"
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s12304-015-9232-5.pdf"
 doi: "10.1007/s12304-015-9232-5"
 tag: "holobiont"
 ---
