@@ -33,4 +33,4 @@ Protective Microbes paper:
 <br>
 
 
-{{< figarray "images" numCols="4">}}
+{{< github-Chrede88-figArray srcArray="images/fig1.jpg,images/fig2.jpg,images/fig3.jpg,images/fig4.jpg" numCols=4>}}
