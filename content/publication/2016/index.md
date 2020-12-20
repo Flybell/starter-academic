@@ -4,9 +4,13 @@ date: 2016-11-01
 publishDate: 2020-11-21T17:51:00.294953Z
 authors: ["Lynn Chiu", "Gérard Eberl"]
 publication_types: ["2"]
+summary: ""
 abstract: ""
 featured: true
 publication: "Biology & Philosophy"
+# links:
+ - name: "Paper"
+   url: "https://doi.org/10.1007/s10539-016-9552-0"
 url_pdf: "https://link.springer.com/content/pdf/10.1007/s10539-016-9552-0.pdf"
 doi: "10.1007/s10539-016-9552-0"
 ---
