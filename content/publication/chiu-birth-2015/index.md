@@ -25,7 +25,11 @@ We are evolutionarily, physiologically, and developmentally integrated holobiont
 - [Biosemiotics Paper of the Year 2015](https://link.springer.com/article/10.1007/s12304-016-9261-8)
 - [ISHPSSB Werner Callebaut Prize for interdisciplinarlity](https://www.ishpssb.org/component/content/article/20-prizes/callebaut-prize/168-2017-callebaut-prize-citation-for-lynn-chiu)
 <br><br>
-![alt text](static\image\Gilbert.png)
+
+**Backstory**
+The late Werner Callebaut took this picture in 2014 at the EuroEvoDevo conference in Vienna. Sending this photo to Scott and I catalyzed our first cooperation.
+<br>
+![ALT: Scott Gilbert and Lynn Chiu sitting under a tree](static\image\Gilbert.png)
 
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="3836400"></div>
