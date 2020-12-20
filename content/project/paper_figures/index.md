@@ -30,7 +30,9 @@ slides: example
 ---
 
 Protective Microbes paper: 
-<br>
-
-
 {{< github-Chrede88-figArray library="true" numCols=4 srcArray="2017_fig1.jpg,2017_fig2.jpg,2017_fig3.jpg,2017_fig4.jpg" >}}
+<br><br>
+
+Microbial Scaffolds paper: 
+{{< github-Chrede88-figArray library="true" numCols=4 srcArray="2016_fig1.jpg,2016_fig2.jpg" >}}
+

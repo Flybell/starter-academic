@@ -18,4 +18,8 @@ doi: "10.3389/fimmu.2017.00454"
 - [Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.00454)
 - [PDF](https://www.frontiersin.org/articles/10.3389/fimmu.2017.00454/pdf)
 
+**Figures**
+{{< github-Chrede88-figArray library="true" numCols=4 srcArray="2017b_fig1.jpg" >}}
+
+
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="19514100"></div>
