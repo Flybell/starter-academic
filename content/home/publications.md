@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Journal and popular articles"
+subtitle = "Journal articles and book chapters"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,9 +25,9 @@ subtitle = "Journal and popular articles"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Journal"
     category = ""
-    publication_type = "2", "5", "6"
+    publication_type = ""
     author = ""
     exclude_featured = false
   

@@ -11,6 +11,7 @@ publication: "*Phenotypic Switching*"
 tags: ["Holobiont", "plasticity", "niche construction", "herbivory", "extended evolutionary synthesis", "eco-devo", "eco-evo-devo", "philosophy", "ruminant"]
 url_pdf: ""
 doi: "10.1016/B978-0-12-817996-3.00015-3"
+tags: ["Academic", "Holobionts", "Niche construction", "Ecological Niche"]
 ---
 
 **Links**
