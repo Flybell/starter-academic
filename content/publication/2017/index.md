@@ -15,6 +15,7 @@ projects: [paper_figures]
 **Links**
 - [Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.01678)
 - [PDF](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf)
+
 <br><br>
 
 **Figures**
