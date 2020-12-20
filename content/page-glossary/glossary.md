@@ -26,7 +26,7 @@ subtitle = ""
      tag = "*"
 
    [[content.filter_button]]
-     name = "Science Communication"
+     name = "Institutions"
      tag = "SciComm"
 
    [[content.filter_button]]

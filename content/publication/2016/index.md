@@ -10,6 +10,7 @@ featured: true
 publication: "Biology & Philosophy"
 url_pdf: "https://link.springer.com/content/pdf/10.1007/s10539-016-9552-0.pdf"
 doi: "10.1007/s10539-016-9552-0"
+tags: ["Academic", "Holobionts", "Niche construction", "Immunology", "Individuality"]
 ---
 **Links**
 - [Paper](https://doi.org/10.1007/s10539-016-9552-0)

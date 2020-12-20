@@ -10,6 +10,7 @@ featured: false
 publication: "Frontiers in Immunology"
 url_pdf: "https://www.frontiersin.org/articles/10.3389/fimmu.2017.00454/pdf"
 doi: "10.3389/fimmu.2017.00454"
+tags: ["Academic", "Immunology"]
 ---
 ![fig1](fig1.jpg)
 <br>

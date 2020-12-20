@@ -25,7 +25,7 @@ subtitle = "Journal articles and book chapters"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Journal"
+    tag = "Academic"
     category = ""
     publication_type = ""
     author = ""

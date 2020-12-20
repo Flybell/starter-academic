@@ -25,9 +25,9 @@ subtitle = "Articles for the general public"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Public"
+    tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "pub_public"
     author = ""
     exclude_featured = false
   

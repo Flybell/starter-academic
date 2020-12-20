@@ -1,25 +1,13 @@
 ---
-title: 'Who is the Immune Self? (Mandarin Chinese)'
-subtitle: 'In the Taiwanese popular science magazine Science Monthly'
+title: '免疫系統裡的「自我」是誰'
 summary: "談論到免疫系統時，我們總是習慣區分出「敵」與「我」的概 念，但免疫系統又是如何決定誰是自我？誰是外敵？「自身和 非自身理論」是免疫學中古典與主流的理論，認為是否排斥的 原則取決於自我分子與非自我分子的差異；後續的危險訊號模 型、非連續性理論與平衡模型等不同理論，對「免疫自我」是 誰、體內微生物究竟是敵是我，開啟了不一樣的哲學挑戰。"
-authors:
-- admin
-tags:
-- 中文
-- Chinese
-- Popular Science
-- Popular Philosophy of Biology
-- Philosophy of Biology
-- Philosophy of Immunology 
-- Philosophy of Science
-- Philosophy 
-categories:
-- Chinese
-- Popular Science
-date: "2020-11-22T00:00:00Z"
-lastmod: "2020-11-22T00:00:00Z"
+date: 2020-11-01
+publishDate: 2020-12-29T00:00:00Z
+publication: "Science Monthly/科學月刊"
+tags: ["中文", "Chinese", "Popular Science", "Popular Philosophy of Biology", "Philosophy of Biology", "Immunology", "Philosophy of Science", "Holobiont"] 
+categories: ""
 featured: false
-draft: false
+url_source: "https://www.scimonth.com.tw/tw/product/show.aspx?num=1120"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +15,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: "Smart"
   preview_only: false
 
@@ -36,7 +24,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Phil_Immune]
+#projects: [Phil_Immune]
 ---
 
 > Take home message: 談論到免疫系統時，我們總是習慣區分出「敵」與「我」的概 念，但免疫系統又是如何決定誰是自我？誰是外敵？「自身和 非自身理論」是免疫學中古典與主流的理論，認為是否排斥的 原則取決於自我分子與非自我分子的差異；後續的危險訊號模 型、非連續性理論與平衡模型等不同理論，對「免疫自我」是 誰、體內微生物究竟是敵是我，開啟了不一樣的哲學挑戰。
@@ -84,4 +72,4 @@ projects: [Phil_Immune]
 
 我們跟微生物的共生關係不只是挑戰免疫中的自我概念， 更提供了一個契機讓我們好好反思免疫討論中常用到的戰 爭語言與譬喻。免疫反應是個拚得你死我活的戰鬥過程， 還是一個多物種之間的協商與調適的合作過程？從單一個 體到生態共同體的免疫學，接下來有太多有趣的科學與哲 學問題可以去探索了。
 
-[原文刊載於科學月刊2020十一月號](https://www.scimonth.com.tw/tw/product/show.aspx?num=1120)
+[原文刊載於科學月刊2020十一月號 611 期](https://www.scimonth.com.tw/tw/product/show.aspx?num=1120)

@@ -10,7 +10,7 @@ featured: true
 publication: "Frontiers in Immunology"
 url_pdf: "https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf"
 doi: "10.3389/fimmu.2017.01678"
-tags: ["Academic", "Holobionts", "Niche construction", "Immunology", "Individuality"]
+tags: ["Academic", "Holobionts", "Immunology", "Co-immunity"]
 ---
 **Links**
 - [Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.01678)
