@@ -12,11 +12,12 @@ url_pdf: "https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf"
 doi: "10.3389/fimmu.2017.01678"
 projects: [paper_figures]
 ---
-![Fig1](fig1.jpg)
-<br>
-
 **Links**
 - [Paper](https://www.frontiersin.org/article/10.3389/fimmu.2017.01678)
 - [PDF](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01678/pdf)
+<br><br>
+
+**Figures**
+{{< github-Chrede88-figArray numCols=4 srcArray="images/fig1.jpg,images/fig2.jpg,images/fig3.jpg,images/fig4.jpg" thumbCaption="Figure 1, Figure 2, Figure 3, Figure 4" >}}
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="30109113"></div>
