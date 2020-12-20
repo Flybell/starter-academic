@@ -33,4 +33,6 @@ Protective Microbes paper:
 <br>
 
 
-{{< github-Chrede88-figArray srcArray="images/fig1.jpg,images/fig2.jpg,images/fig3.jpg,images/fig4.jpg" numCols=4>}}
+{{<github-Chrede88-figArray numCols=4 srcArray="images/fig1.jpg,images/fig2.jpg,images/fig3.jpg,images/fig4.jpg">}}
+
+# {{< github-Chrede88-figArray numCols=2 srcArray="moraine-lake.jpg,science-world.jpg,animal.jpg,toronto.jpg" thumbCaption="Moraine Lake near Banff,Science World in Vancouver,Some Animal by a Lake,Toronto Skyline" figCaption="Four images from Canada" >}}
