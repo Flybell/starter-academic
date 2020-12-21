@@ -4,7 +4,7 @@ summary: "談論到免疫系統時，我們總是習慣區分出「敵」與「�
 date: 2020-11-01
 publishDate: 2020-11-21T17:51:00.297946Z
 authors: ["Lynn Chiu", "Scott F. Gilbert"]
-publication_types: [pub_public]
+publication_types: ["9"]
 featured: false
 publication: "Science Monthly/科學月刊"
 url_source: "https://www.scimonth.com.tw/tw/product/show.aspx?num=1120"
