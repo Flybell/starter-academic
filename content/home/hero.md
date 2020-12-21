@@ -49,7 +49,7 @@ title = "Lynn Chiu, PhD"
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
- +++
++++
 # 
 # **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
 # 
