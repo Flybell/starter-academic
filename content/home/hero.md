@@ -1,4 +1,4 @@
-+++
+---
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -49,4 +49,4 @@ hero_media = "20190908_123409.jpg"
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
-+++
+---
