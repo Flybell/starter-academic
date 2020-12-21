@@ -8,7 +8,7 @@ weight = 02  # Order that this section will appear.
 title = "Lynn Chiu, PhD"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-# hero_media = "rock.jpg"
+hero_media = "20190908_123409.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
