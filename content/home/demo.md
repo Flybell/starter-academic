@@ -22,7 +22,7 @@ subtitle = "Communicating the Philosophy of Science"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#061A40"
+ # color = "Blu"
 
   # Background gradient.
   gradient_start = "DarkGreen"
