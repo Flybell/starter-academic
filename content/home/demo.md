@@ -29,12 +29,12 @@ subtitle = "Communicating the Philosophy of Science"
  # gradient_end = "ForestGreen"
 
   # Background image.
-  #image = "cover_scaffold.jpg"  # Name of image in `static/#media/`.
-  #image_darken = 0.1  # Darken the image? Range #0-1 where 0 is transparent and 1 is opaque.
-  #image_size = "cover"  #  Options are `cover` #(default), `contain`, or `actual` size.
-  #image_position = "center"  # Options include #`left`, `center` (default), or `right`.
-  #image_parallax = true  # Use a fun #parallax-like fixed background effect? true/#false
-#
+# image = "cover_scaffold.jpg"  # Name of image # `static/#media/`.
+# image_darken = 0.1  # Darken the image? Range # 1 where 0 is transparent and 1 is opaque.
+# image_size = "cover"  #  Options are `cover` ## fault), `contain`, or `actual` size.
+# image_position = "center"  # Options include # eft`, `center` (default), or `right`.
+# image_parallax = true  # Use a fun # rallax-like fixed background effect? true/# lse
+
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -50,4 +50,4 @@ subtitle = "Communicating the Philosophy of Science"
  css_class = ""
 +++
 
-{{< figure src="20190908_123409.jpg" library="true" >}}
+{{< figure src="cover_scaffold.jpg" library="true" >}}
