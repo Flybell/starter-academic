@@ -13,7 +13,7 @@ subtitle = "Communicating the Philosophy of Science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = "Communicating the Philosophy of Science"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = 061A40
+  color = "#061A40"
 
   # Background gradient.
   gradient_start = "DarkGreen"
@@ -49,3 +49,5 @@ subtitle = "Communicating the Philosophy of Science"
  # CSS class.
  css_class = ""
 +++
+
+{{< figure src="20190908_123409.jpg" library="true" >}}
