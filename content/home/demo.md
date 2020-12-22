@@ -50,4 +50,4 @@ subtitle = "Communicating the Philosophy of Science"
  css_class = ""
 +++
 
-{{< figure src="cover_scaffold.jpg" library="true" >}}
+{{< figure src="Portrait.jpg" library="true" >}}
