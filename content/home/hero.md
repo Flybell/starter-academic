@@ -24,7 +24,7 @@ title = "Lynn Chiu, PhD"
   gradient_end = "#2b94c3"
   
   # Background image.
-  image = "image.jpg"  # Name of image in   static/media/`.
+  image = "banner.jpg"  # Name of image in   static/media/`.
   image_darken = 1  # Darken the image ange # 0-1 where 0 is transparent and 1 i  paque.
   image_size = "cover"  #  Options ar  cover` # (default), `contain`, or `actual ize.
   image_position = "center"  # Option  nclude # `left`, `center` (default), o  right`.
