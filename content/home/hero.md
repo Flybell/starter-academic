@@ -8,7 +8,7 @@ weight = 02  # Order that this section will appear.
 title = "Lynn Chiu, PhD"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "banner.jpg"
+# hero_media = "banner.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,11 +24,11 @@ hero_media = "banner.jpg"
   gradient_end = "#2b94c3"
   
   # Background image.
-   # image = "rock.jpg"  # Name of image in # `static/media/`.
-   # image_darken = 0.2  # Darken the image? Range # 0-1 where 0 is transparent and 1 is opaque.
-   # image_size = "cover"  #  Options are `cover` # (default), `contain`, or `actual` size.
-   # image_position = "center"  # Options include # `left`, `center` (default), or `right`.
-   # image_parallax = true  # Use a fun # parallax-like fixed background effect? true/# false
+  image = "image.jpg"  # Name of image in   static/media/`.
+  image_darken = 1  # Darken the image ange # 0-1 where 0 is transparent and 1 i  paque.
+  image_size = "cover"  #  Options ar  cover` # (default), `contain`, or `actual ize.
+  image_position = "center"  # Option  nclude # `left`, `center` (default), o  right`.
+  image_parallax = false  # Use a fun   arallax-like fixed background effect? true/ alse
   
   # Text color (true=light or false=dark).
   text_color_light = true
