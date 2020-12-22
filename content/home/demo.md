@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 01  # Order that this section will appear.
 
 title = "Lynn Chiu, PhD"
@@ -50,4 +50,4 @@ subtitle = "Philosopher of Biology, Science Communicator, Public Information Off
  css_class = ""
 +++
 
-{{< figure src="Portrait.jpg" library="true" >}}
+# {{< figure src="Portrait.jpg" library="true" >}}
