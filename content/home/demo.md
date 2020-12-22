@@ -13,7 +13,7 @@ subtitle = "Philosopher of Biology, Science Communicator, Public Information Off
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,11 +29,11 @@ subtitle = "Philosopher of Biology, Science Communicator, Public Information Off
  # gradient_end = "ForestGreen"
 
   # Background image.
-# image = "cover_scaffold.jpg"  # Name of image # `static/#media/`.
-# image_darken = 0.1  # Darken the image? Range # 1 where 0 is transparent and 1 is opaque.
-# image_size = "cover"  #  Options are `cover` ## fault), `contain`, or `actual` size.
-# image_position = "center"  # Options include # eft`, `center` (default), or `right`.
-# image_parallax = true  # Use a fun # rallax-like fixed background effect? true/# lse
+ image = "banner.jpg"  # Name of image  `static/#media/`.
+ image_darken = 0.1  # Darken the image? Range  1 where 0 is transparent and 1 is opaque.
+ image_size = "cover"  #  Options are `cover` # fault), `contain`, or `actual` size.
+ image_position = "center"  # Options include # ft`, `center` (default), or `right`.
+ image_parallax = true  # Use a fun # allax-like fixed background effect? true/# lse
 
   # Text color (true=light or false=dark).
   text_color_light = false
